@@ -1,9 +1,8 @@
-TravisCI:
 [![Build Status](https://travis-ci.com/aldarisbm/whereiseast.svg?branch=master)](https://travis-ci.com/aldarisbm/whereiseast)
 
 ## Why this repo?
 
-I wanted to show my girlfriend how much I love her by making her a website for her blogging from scratch `
+I wanted to show my girlfriend how much I love her by making her a website for her blogging from scratch
 
 ## Available Scripts
 
