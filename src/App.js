@@ -21,7 +21,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Love is patient, love is kind
+            love is patient, love is kind
           </a>
         </header>
       </div>
