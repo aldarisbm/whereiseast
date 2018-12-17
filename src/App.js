@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './strawberry.png';
 import './App.css';
 
 class App extends Component {
@@ -8,8 +8,12 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <br />
           <p>
-            Merry Xmas Sweet Bug
+            Happy Christmas Bug<br />
+            Team JAAM forever, si?<br />
+            This is just the beginning.<br />
+
           </p>
           <a
             className="App-link"
