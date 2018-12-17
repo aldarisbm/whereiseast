@@ -11,8 +11,8 @@ class App extends Component {
           <br />
           <p>
             Happy Christmas Bug<br />
-            Team JAAM forever, si?<br />
-            This is just the beginning.<br />
+            team JAAM forever, si?<br />
+            this is just the beginning.<br />
 
           </p>
           <a
