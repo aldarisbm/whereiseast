@@ -9,15 +9,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Merry Xmas Sweet Bug
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.bible.com/bible/111/1CO.13.4-8.NIV"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Love Is Patient
           </a>
         </header>
       </div>
